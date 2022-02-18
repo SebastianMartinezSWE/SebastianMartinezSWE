@@ -1,4 +1,5 @@
-### Hi there 👋
+### Sebastian Martinez
+Im currently a Senior at New Jersey Institute of Technology studying Computer Science and to hopefully become a Software Engineer in the future after Graduation! (Hence why my username ends with SWE)
 
 <!--
 **SebastianMartinezSWE/SebastianMartinezSWE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
