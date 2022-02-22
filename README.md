@@ -1,6 +1,9 @@
 # Hi, I'm Sebastian!
 
 ### :handshake: Connect With Me:
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+![Instagram](https://img.shields.io/badge/https://www.instagram.com/s.ebastianmartinez-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
 ### :open_book: Current Course Load this Semester:
 - Advanced Data Structures and Algorithms 
