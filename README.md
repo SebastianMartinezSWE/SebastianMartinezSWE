@@ -2,12 +2,8 @@
 
 ### :handshake: Connect With Me:
 
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) 
-![Instagram](https://img.shields.io/badge/s.ebastianmartinez-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-
-Email: sm2686@njit.edu  
-[LinkedIn](https://www.linkedin.com/in/sebastianalexmartinez)
+<a href="https://www.instagram.com/s.ebastianmartinez" target="_blank"><img src="https://img.shields.io/badge/s.ebastianmartinez-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://www.linkedin.com/in/sebastianalexmartinez/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 ### :open_book: Current Course Load this Semester:
 - Advanced Data Structures and Algorithms 
