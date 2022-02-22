@@ -30,8 +30,8 @@ Email: sm2686@njit.edu
 ### :desktop_computer: Technical Skills
 
 ### :chart_with_upwards_trend: Stats for 2022
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SebastianMartinezSWE&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SebastianMartinezSWE&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/SebastianMartinezSWE)
  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SebastianMartinezSWE&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SebastianMartinezSWE&layout=compact&theme=tokyonight)](https://github.com/SebastianMartinezSWE)
  
- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SebastianMartinez&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+ [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SebastianMartinez&show_icons=true&theme=tokyonight)](https://github.com/SebastianMartinezSWE)
