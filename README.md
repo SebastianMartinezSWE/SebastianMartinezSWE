@@ -1,5 +1,4 @@
 # Hi, I'm Sebastian!
-I'm currently a Senior at New Jersey Institute of Technology studying Computer Science and to hopefully become a Software Engineer in the future after Graduation! (Hence why my username ends with SWE)
 
 ### :handshake: Connect With Me:
 
