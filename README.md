@@ -2,11 +2,12 @@
 
 ### :handshake: Connect With Me:
 
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) 
 ![Instagram](https://img.shields.io/badge/s.ebastianmartinez-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
-<a href=”www.linkedin.com/in/sebastianalexmartinez/"><src=”https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+Email: sm2686@njit.edu  
+[LinkedIn](https://www.linkedin.com/in/sebastianalexmartinez)
 
 ### :open_book: Current Course Load this Semester:
 - Advanced Data Structures and Algorithms 
@@ -34,18 +35,3 @@
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SebastianMartinezSWE&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
  
  [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SebastianMartinez&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-<!--
-**SebastianMartinezSWE/SebastianMartinezSWE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
