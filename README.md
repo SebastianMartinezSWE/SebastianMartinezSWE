@@ -58,4 +58,4 @@
 * 	![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 * 	![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
 ### :chart_with_upwards_trend: Stats for 2022
-<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=SebastianMartinezSWE&show_icons=true&theme=tokyonight&count_private=true" <p align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SebastianMartinezSWE&theme=tokyonight&layout=compact" /></p>
+<p align="left"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=SebastianMartinezSWE" <p align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SebastianMartinezSWE&theme=tokyonight&layout=compact" /></p>
