@@ -21,7 +21,7 @@
 - Lexical Analyzer (School Assignment)
 
  ### :unlock: Current Projects:
- - Multipurpose Discord Bot in JavaScript using Discord.JS (Personal Project)
+ - Multipurpose Discord Bot in Java using Discord4J (Personal Project)
  - Python Autograder Website (School Assignment)
 
 ### :desktop_computer: Languages I have experience with:
@@ -34,14 +34,11 @@
 
 ### Languages I am currently Learning:
 * ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-* ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-* ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-* ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Languages I am currently working with:
 * ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 * ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-* ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
 
 ### Software I have experience with:
 * 	![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
