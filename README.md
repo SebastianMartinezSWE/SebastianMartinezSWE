@@ -21,7 +21,7 @@
 - Lexical Analyzer (School Assignment)
 
  ### :unlock: Current Projects:
- - Multipurpose Discord Bot in Python using Discord.py (Personal Project)
+ - Multipurpose Discord Bot in Java (Personal Project)
  - Python Autograder Website (School Assignment)
 
 ### :desktop_computer: Languages I have experience with:
