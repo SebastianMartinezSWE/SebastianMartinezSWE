@@ -12,15 +12,6 @@
 
 ---
 
-### :open_book: Current Course Load this Semester
-
-- Software Testing & Quality Assurance
-- Software Architecture
-- User Experience Design
-- Requirement Engineering
-
----
-
 ### :lock: Past Projects
 
 - Python Autograder Website (Undergrad Senior Capstone)
